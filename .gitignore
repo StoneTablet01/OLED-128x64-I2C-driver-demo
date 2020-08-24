@@ -49,4 +49,9 @@
 modules.order
 Module.symvers
 Mkfile.old
+
+#JPS Project Files
+build/
+sdkconfig
+sdkconfig.old
 dkms.conf
